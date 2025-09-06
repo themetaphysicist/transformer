@@ -1,2 +1,2 @@
 # transformer
-Implementation of State of the Art Transformer Architecture in JAX
+Implementation of State of the Art Transformer Architecture and its variants in JAX
